@@ -1,8 +1,8 @@
 # Microprocessors-Research-2020
 
-Name: Islam Hani Awad Ali
-ID: 20170050
-Mail: islamhani433@gmail.com
+#Name: Islam Hani Awad Ali
+#ID: 20170050
+#Mail: islamhani433@gmail.com
 
 Name: Ahmed Hassan Mohamed Sadek
 ID: 20170015
