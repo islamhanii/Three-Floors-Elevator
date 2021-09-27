@@ -1,3 +1,3 @@
-# Left design code
+# Elevator design code
 
-This is a code used for 3 flats left
+This is a code used for Elevator for three floors using C programing language and arduino
